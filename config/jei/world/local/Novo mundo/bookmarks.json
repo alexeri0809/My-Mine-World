@@ -1,0 +1,14 @@
+[
+  {"version":1},
+  {"type":"recipe","value":"minecraft:crafting#draconicevolution:components/draconium_core#item_stack\u0026draconicevolution:draconium_core"},
+  {"type":"recipe","value":"draconicevolution:fusion_crafting#draconicevolution:tools/wyvern_sword#item_stack\u0026draconicevolution:wyvern_sword"},
+  {"type":"recipe","value":"minecraft:crafting#twilightforest:uncrafting_table#item_stack\u0026twilightforest:uncrafting_table"},
+  {"type":"recipe","value":"minecraft:crafting#mob_grinding_utils:recipe_absorbtion_hopper#item_stack\u0026mob_grinding_utils:absorption_hopper"},
+  {"type":"recipe","value":"minecraft:crafting#mob_grinding_utils:recipe_cursed_feed#item_stack\u0026mob_grinding_utils:gm_chicken_feed_cursed"},
+  {"type":"recipe","value":"minecraft:crafting#mob_grinding_utils:recipe_saw_upgrade_looting#item_stack\u0026mob_grinding_utils:saw_upgrade_looting"},
+  {"type":"recipe","value":"minecraft:crafting#mob_grinding_utils:recipe_saw_upgrade_sharpness#item_stack\u0026mob_grinding_utils:saw_upgrade_sharpness"},
+  {"type":"recipe","value":"minecraft:crafting#mob_grinding_utils:recipe_fan_upgrade_width#item_stack\u0026mob_grinding_utils:fan_upgrade_width"},
+  {"type":"recipe","value":"minecraft:crafting#mob_grinding_utils:recipe_fan_upgrade_speed#item_stack\u0026mob_grinding_utils:fan_upgrade_speed"},
+  {"type":"recipe","value":"minecraft:crafting#mob_grinding_utils:recipe_fan#item_stack\u0026mob_grinding_utils:fan"},
+  {"type":"recipe","value":"minecraft:crafting#mob_grinding_utils:recipe_saw#item_stack\u0026mob_grinding_utils:saw"}
+]

@@ -1,0 +1,17 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": true,
+  "bookData": {
+    "divinerpg:divine": {
+      "viewedEntries": [
+        "divinerpg:iceika/iceika_portal",
+        "divinerpg:iceika/structures",
+        "divinerpg:twilight/twilight_portals",
+        "divinerpg:twilight/twilight_ores",
+        "divinerpg:arcana/arcana_portal"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

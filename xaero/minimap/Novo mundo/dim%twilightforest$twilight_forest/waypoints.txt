@@ -1,0 +1,7 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Hydra:H:-4604:1:-755:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Portal casa:P:-4280:6:-1042:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Naga:N:-3850:5:-1016:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Lich tower:L:-4084:7:-1229:6:false:0:gui.xaero_default:false:0:0:false

@@ -1,0 +1,6 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Mobspawner:M:-647:-37:50:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:gui.xaero_deathpoint:D:2332:-42:302:0:false:1:gui.xaero_default:false:0:1:true
+waypoint:Casa:C:-523:72:-131:11:false:0:gui.xaero_default:false:0:0:false
